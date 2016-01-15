@@ -1,0 +1,29 @@
+version 0.0.5 ( September 26, 2015 )
+-------------------------------------------------------
+
+- removed advertising from Appearance > Cannyon FAQ
+- include scripts with version
+
+version 0.0.4 ( September 21, 2015 )
+-------------------------------------------------------
+
+- fixed menu for Small Device
+- fixed css for post thumbnails with caption
+- fixed another's small HTML and CSS issues
+- added color option for Header Headline
+- added color option for Header Description
+- added colors options for Header Buttons
+- added parallax efect for header Image
+- added support for WordPress Header Image
+- block options "Show Header Text"
+- block options "Header Text Color"
+- range panels on WP Customize
+
+version 0.0.3 ( August 18, 2015 )
+-------------------------------------------------------
+
+- added instructions.txt
+- escaped social links from footer.php
+- change mythemes.scripts.class.php line 60 from get_template_directory_uri() to get_stylesheet_directory_uri()
+- fixed CSS for blockquote
+- fixed another's small HTML and CSS issues
